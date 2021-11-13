@@ -36,7 +36,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## In Public folder
-  You can find index files which hase html and css files.
+  You can find index files which has html and css files.
   
 ## In Src folder
   In this folder we find componts required for this **jammming project**.
